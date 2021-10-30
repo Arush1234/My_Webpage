@@ -1,0 +1,29 @@
+body {background-color: aqua;}
+img{
+border:3px solid black;
+}
+h1 {
+color: blue;
+border:2px solid black;
+text-align:center;
+}
+h2 {
+color: red;
+border:2px solid black;
+text-align:center;
+}
+h3  {color: green;}
+p {
+color: black;
+border:2px solid DodgerBlue;
+background-color: yellow;
+margin:10px;
+padding: 20px;
+}
+ul {
+color: black;
+border:2px solid DodgerBlue;
+background-color: yellow;
+margin:10px;
+padding: 20px;
+}
